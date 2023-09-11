@@ -10,6 +10,4 @@ Created a project for a hotel management system to deal with the problems of man
 5)Check-Out Room
 6)Guest Summary Report
 7)Exit
-
-
-#I have made this project using C++ language.
+I have made this project using C++ language.
